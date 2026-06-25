@@ -5,7 +5,7 @@ For this capstone project, I analyzed four years of sales data for EmporiUm usin
 
 ## Report Pages
 
-### Executive Overview
+### Northeast Sales Overview
 - Total Revenue
 - Average Monthly Revenue
 - Top Performing State
