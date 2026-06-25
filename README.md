@@ -32,4 +32,4 @@ For this capstone project, I analyzed four years of sales data for EmporiUm usin
 
 
 ## Video Presentation
-**Video Link:** 
+**Video Link:** [https://github.com/Samnola/Capstone_3.git](https://yearuptemp-my.sharepoint.com/:v:/g/personal/amartinez3_my_yearupunited_org/IQCIaxMcMfKmRrTy-otjX9DSAb9nR4xd8uQ-5CxxHjdvTAA?e=3tCz6T&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
